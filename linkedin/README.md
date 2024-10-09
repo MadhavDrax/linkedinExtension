@@ -54,6 +54,7 @@ Once installed, you should see the extension’s icon in the Chrome toolbar.
 - Press the Connect with All button to send connection requests to all visible profiles.
 
 ### File Structure
+```
 linkedin-extension/
 │
 ├── dist/                 # Compiled extension files (after build)
@@ -77,6 +78,7 @@ linkedin-extension/
 ├── README.md             # Project documentation
 ├── vite.config.js        # Vite config for building the extension
 └── tsconfig.json         # TypeScript configuration (if using TypeScript)
+```
 
 ### How to Contribute
 
