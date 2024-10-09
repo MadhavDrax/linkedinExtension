@@ -1,8 +1,24 @@
-# React + Vite
+# LinkedIn Connection Chrome Extension
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Chrome extension automates the process of sending connection requests to profiles on LinkedIn. It interacts with the LinkedIn platform to identify connectable profiles and send them a connection request.
 
-Currently, two official plugins are available:
+## Features
+- Automatically send connection requests to visible profiles on LinkedIn.
+- Button in the extension popup to initiate the connection process.
+- Notifications for successful connections or errors.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Prerequisites
+Before starting with the setup of this extension, ensure that you have the following installed:
+- **Node.js** (Recommended version: 14 or higher)
+- **npm** (Node Package Manager, comes with Node.js)
+- **Chrome Browser** (For testing the extension)
+- **Git** (For version control)
+
+## Installation Guide
+
+### Step 1: Clone the repository
+Clone this repository to your local machine using the following command:
+
+```bash
+git clone <your-repo-url>
+cd linkedin-extension
