@@ -22,18 +22,21 @@ Clone this repository to your local machine using the following command:
 ```bash
 git clone <your-repo-url>
 cd linkedin-extension
+```
 
 ### Step 2: Install Dependencies
 Install the required dependencies for the extension by running:
 
 ```bash
 pnpm install
+```
 
 ### Step 3: Build the Project
 Build the project by running the following command:
 
 ```bash
 pnpm run build
+```
 
 This will create the necessary dist folder in your project directory.
 
@@ -84,6 +87,7 @@ Feel free to contribute to this project! Here's how:
 
 ```bash
 git clone <your-fork-url>
+```
 
 - Make the changes you want to contribute.
 - Push your changes to your forked repository.
