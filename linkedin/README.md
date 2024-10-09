@@ -20,7 +20,7 @@ Before starting with the setup of this extension, ensure that you have the follo
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/MadhavDrax/linkedinExtension.git
 cd linkedin-extension
 ```
 
